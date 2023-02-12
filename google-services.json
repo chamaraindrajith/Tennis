@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "564571134691",
+    "project_id": "coderog-89f97",
+    "storage_bucket": "coderog-89f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564571134691:android:9213b69c6c3f0476ad83d6",
+        "android_client_info": {
+          "package_name": "com.coderog.knifethrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8lFwS7s6CUTSPsGr66NneP84SjDRr1wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564571134691:android:bf421dcc5fb3b56cad83d6",
+        "android_client_info": {
+          "package_name": "com.coderog.nftguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8lFwS7s6CUTSPsGr66NneP84SjDRr1wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564571134691:android:c421447c1979ce20ad83d6",
+        "android_client_info": {
+          "package_name": "com.coderog.rubikscube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8lFwS7s6CUTSPsGr66NneP84SjDRr1wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564571134691:android:030d032fee89eb97ad83d6",
+        "android_client_info": {
+          "package_name": "com.stickermaker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8lFwS7s6CUTSPsGr66NneP84SjDRr1wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564571134691-maaqn69u57t40h3cjd7ts5bu3hbdjt5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

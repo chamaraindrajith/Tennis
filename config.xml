@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.coderog.tennis" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Tennis 3D Mobile</name>
+    <description>
+        Tennis 3D Mobile
+    </description>
+    <author email="admin@coderog.com" href="http://coderog.com"/>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+        <platform name="android">
+        <allow-intent href="market:*" />
+           <preference name="AndroidXEnabled" value="true" />
+           <preference name="loadUrlTimeoutValue" value="700000" />
+           <preference name="android-targetSdkVersion" value="32" />
+            <edit-config xmlns:android="http://schemas.android.com/apk/res/android" file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
+                <application android:networkSecurityConfig="@xml/network_security_config" />
+            </edit-config>
+            <resource-file src="res/xml/network_security_config.xml" target="app/src/main/res/xml/network_security_config.xml" />
+     
+        <resource-file src="www/res/android/my-color.xml" target="/app/src/main/res/values/my-color.xml" />
+        <icon background="@color/adaptive_background" foreground="www/assets/icons/mipmap-ldpi/ic_launcher.png" density="ldpi" />
+        <icon background="@color/adaptive_background" foreground="www/assets/icons/mipmap-mdpi/ic_launcher_foreground.png" density="mdpi" />
+        <icon background="@color/adaptive_background" foreground="www/assets/icons/mipmap-hdpi/ic_launcher_foreground.png" density="hdpi" />
+        <icon background="@color/adaptive_background" foreground="www/assets/icons/mipmap-xhdpi/ic_launcher_foreground.png" density="xhdpi" />
+        <icon background="@color/adaptive_background" foreground="www/assets/icons/mipmap-xxhdpi/ic_launcher_foreground.png" density="xxhdpi" />
+        <icon background="@color/adaptive_background" foreground="www/assets/icons/mipmap-xxxhdpi/ic_launcher_foreground.png" density="xxxhdpi" />
+
+        <preference name="AndroidWindowSplashScreenBackground" value="#e2ec26" />
+        <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/screen/android/splashscreen.png" />
+         <preference name="SplashScreenDelay" value="1000" />
+    </platform>
+    </widget>

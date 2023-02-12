@@ -1,0 +1,12 @@
+{
+    "android": {
+        "release": {
+            "keystore": "tennis.keystore",
+            "storePassword": "Nokia6.1Plus",
+            "alias": "tennis",
+            "password" : "Nokia6.1Plus",
+            "keystoreType": "",
+            "packageType" : "bundle"
+        }
+    }
+}

@@ -15,9 +15,18 @@
   "cordova": {
     "platforms": [
       "android"
-    ]
+    ],
+    "plugins": {
+      "admob-plus-cordova": {
+        "APP_ID_ANDROID": "ca-app-pub-3090770836358614~3828632665",
+        "PLAY_SERVICES_VERSION": "22.1.0"
+      }
+    }
+  },
+  "dependencies": {
+    "admob-plus-cordova": "2.0.0-alpha.13"
   },
   "devDependencies": {
-    "cordova-android": "^11.0.0"
+    "cordova-android": "^13.0.0"
   }
 }
